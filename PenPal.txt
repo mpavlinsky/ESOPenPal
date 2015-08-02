@@ -1,0 +1,1 @@
+## APIVersion: 100011## Title: PenPal## Description: Send an email to your BFF in one keypress## Author: Matthew Pavlinsky## DependsOn: wykkyd_core_libraries## OptionalDependsOn: LibAddonMenu-2.0## SavedVariables: penPalGlobaladdon.luabindings/bindings.xmlbindings/bindings.lua

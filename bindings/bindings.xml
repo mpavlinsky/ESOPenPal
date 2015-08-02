@@ -1,0 +1,12 @@
+<Bindings>
+  <Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
+	<Category name="PenPal">
+	  <Action name="COMPOSE_PENPAL_MAIL">
+		<Down>PenPalAddon.ComposePenPalMail()</Down>
+	  </Action>
+	  <Action name="COMPOSE_PENPAL_BOUNCE_MAIL">
+		<Down>PenPalAddon.ComposePenPalBounceMail()</Down>
+	  </Action>
+	</Category>
+  </Layer>
+</Bindings>
